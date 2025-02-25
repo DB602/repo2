@@ -1,0 +1,7 @@
+C:\Users\USER\Desktop\repo2\repo2\obj\Debug\repo2.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\repo2\repo2\obj\Debug\repo2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\repo2\repo2\bin\Debug\repo2.exe.config
+C:\Users\USER\Desktop\repo2\repo2\bin\Debug\repo2.exe
+C:\Users\USER\Desktop\repo2\repo2\bin\Debug\repo2.pdb
+C:\Users\USER\Desktop\repo2\repo2\obj\Debug\repo2.exe
+C:\Users\USER\Desktop\repo2\repo2\obj\Debug\repo2.pdb
